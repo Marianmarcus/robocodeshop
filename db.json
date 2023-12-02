@@ -41,35 +41,35 @@
     },
     {
       "id": 3,
-      "name": "ESP8266 5V",
-      "description": "This wireless relay is based on the AI-Thinker ESP-01S WIFI module.",
+      "name": "ciocolata neagra",
+      "description": "ciocolaata naturala din boabe de cacao",
       "price": 300,
       "author_id": 2,
-      "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/wifi.jpeg"
+      "photo_url": "https://raw.githubusercontent.com/Marianmarcus/robocodeshop/main/img/3.jpg"
     },
     {
       "id": 4,
-      "name": "RGB",
-      "description": "Can make color party.",
+      "name": "ciocolata neagra mr beast" ,
+      "description": "ciocolata mr beast neagra 89% cacao",
       "price": 92,
       "author_id": 1,
-      "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/rgb.png"
+      "photo_url": "https://raw.githubusercontent.com/Marianmarcus/robocodeshop/main/img/4.jpg"
     },
     {
       "id": 5,
-      "name": "Resistor 10k Ohm",
-      "description": "Can resist the voltage. Super cool.",
+      "name": "ciocolata milka ",
+      "description": "ciocolata milka cu lapte",
       "price": 180,
       "author_id": 3,
-      "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/resistor.png"
+      "photo_url": "https://raw.githubusercontent.com/Marianmarcus/robocodeshop/main/img/5.jpg"
     },
     {
       "id": 6,
-      "name": "7-Segment Display",
-      "description": "Epic.",
+      "name": "ciocolata naturala",
+      "description": "ciocolata naturala la comanda alba sau neagra",
       "price": 300,
       "author_id": 2,
-      "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/7-seg.jpg"
+      "photo_url": "https://raw.githubusercontent.com/Marianmarcus/robocodeshop/main/img/6.jpg"
     }
   ]
 }
